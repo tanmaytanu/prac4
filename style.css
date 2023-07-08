@@ -1,0 +1,172 @@
+.header{
+    height: 100px;
+    background-color: red;
+}
+
+.container{
+    overflow: hidden;
+}
+
+.blog{
+    float: left;
+    width: 60%;
+    height: 150px;
+    background-color: green;
+}
+
+.contact{
+    float: right;
+    width: 40%;
+    height: 150px;
+    background-color: blue;
+    border-left: 3px solid brown;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    overflow: hidden;
+}
+.item{
+    height: 200px;
+    float: left;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 30%;
+}
+
+.tomato{
+    background-color: tomato;
+    width: 40%;
+}
+
+.lime{
+    background-color: lime;
+    width: 30%;
+
+}
+
+.footer{
+    height: 100px;
+    background-color: black;
+}
+
+
+
+
+
+
+
+.header1{
+    height: 50px;
+    background-color: skyblue;
+}
+.p1{
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.container1{
+    overflow: hidden;
+}
+
+.blog1{
+    float: left;
+    width: 60%;
+    height: 300px;
+    background-color: maroon;
+}
+.p2{
+    margin-top: 120px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.contact1{
+    float: left;
+    width: 40%;
+    height: 150px;
+    background-color: yellow;
+    border: 3px solid brown;
+    box-sizing: border-box;
+}
+.p3{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+}
+.details1{
+    float: left;
+    width: 40%;
+    height: 150px;
+    background-color: powderblue;
+    border: 3px solid brown;
+    box-sizing: border-box;
+}
+
+.p4{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.wrapper1{
+    overflow: hidden;
+    border: 5px solid blueviolet;
+}
+.item1{
+    height: 200px;
+    float: left;
+}
+
+.yellow1{
+    background-color: yellow;
+    width: 30%;
+}
+
+.p5{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.tomato1{
+    background-color: tomato;
+    width: 40%;
+}
+
+.p6{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.lime1{
+    background-color: lime;
+    width: 30%;
+}
+
+.p7{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.footer1{
+    height: 100px;
+    background-color: black;
+    margin-top: -35px;
+}
+
+.p8{
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+    color: brown;
+}
